@@ -59,7 +59,6 @@ RetailEdge Solutions faced the following challenges:
 - **Customer Segmentation**: Repeat customers accounted for a significant portion of total revenue, demonstrating the importance of customer loyalty.
 - **Sales Channel Performance**: E-commerce channels outperformed physical stores in recent periods, underlining the growing trend towards online shopping.
 - **Seasonal Trends**: Notable sales peaks occurred during holiday campaigns and seasonal promotions, emphasizing the impact of strategic marketing periods.
-- **Profit Margins by Category**: Certain product categories, such as [Category Name], showed higher profit margins, indicating potential areas for strategic investment.
 - **Dashboard Interactivity**: The use of dynamic filters and drill-down capabilities allowed for in-depth analysis, helping stakeholders tailor their decision-making based on specific regions, products, and timeframes.
 
 ---
