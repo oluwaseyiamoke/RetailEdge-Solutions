@@ -13,25 +13,17 @@
 10. [Technical Implementation](#technical-implementation)  
 11. [Conclusion](#conclusion)  
 
----
-
 ## Project Overview
 This project focuses on enhancing sales analytics for **RetailEdge Solutions**, a retail company operating in multiple cities. The goal is to transform static sales reports into interactive, real-time dashboards using Power BI, empowering stakeholders with actionable insights for informed decision-making.
 
----
-
 ## Business Introduction
 **RetailEdge Solutions** is a rapidly expanding retail company specializing in electronics, household goods, and personal care products. With operations across several cities and both physical and e-commerce channels, the company is focused on leveraging data analytics to improve sales tracking and financial reporting.
-
----
 
 ## Problem Statement
 RetailEdge Solutions faced the following challenges:
 - Lack of dynamic, real-time visualization tools for their sales data.
 - Difficulty in comparing year-over-year performance across cities and product categories.
 - Management required a comprehensive dashboard to analyze trends, identify top-performing products, and understand customer preferences.
-
----
 
 ## Project Objectives
 - Develop an **interactive Power BI dashboard** to visualize key sales metrics.
@@ -40,16 +32,12 @@ RetailEdge Solutions faced the following challenges:
 - Enable **dynamic filtering** using slicers for Date, City, Product, and Channel.
 - Deliver a user-friendly dashboard to support **data-driven decision-making**.
 
----
-
 ## Tools & Tech Stack
 - **Power BI**
 - **Power Query** (Data Transformation)
 - **DAX (Data Analysis Expressions)**
 - **Power BI Service** (Sharing and collaboration)
 - **Power BI Gateway & Data Refresh** (Automated data updates)
-
----
 
 ## Key Insights & Findings
 ### KPIs Summary:
@@ -84,8 +72,6 @@ RetailEdge Solutions faced the following challenges:
 - Wholesale: 31.68%  
 - Export: 14.54%  
 
----
-
 ## Dashboard Structure
 The dashboards are split into two main pages for clear insights and easy navigation:
 
@@ -106,8 +92,6 @@ The dashboards are split into two main pages for clear insights and easy navigat
 - **Overall Profit Margin (37.39%)**  
 - **Relationship between revenue (yellow dotted line) and profit (teal line)**  
 
----
-
 ## Dashboard Links
 ### Sales Dashboard
 ![Sales Dashboard](./images/sales-dashboard.png)  
@@ -125,15 +109,11 @@ _Comprehensive analysis of profit margins, distribution channels, and product pr
 ![Profit Dashboard - April](./images/april_profit-dashboard.png)  
 _Focus on April profit margins, distribution channels, and product profitability._
 
----
-
 ## Strategic Implications
 - **Optimize profit margins** in high-sales but low-margin regions.  
 - **Replicate successful regional strategies** in underperforming markets.  
 - **Refine product mix** to focus on high-margin offerings.  
 - **Enhance distribution channel efficiency** based on performance insights.  
-
----
 
 ## Technical Implementation
 - **Real-Time Data Visualization**: Dashboards automatically update as new data is added.  
@@ -142,14 +122,10 @@ _Focus on April profit margins, distribution channels, and product profitability
 - **Integrated Performance Tracking**: KPIs and trend analysis designed for actionable insights.  
 - **Data Refresh Strategy**: Automated via Power BI Gateway with scheduled refreshes to ensure up-to-date reporting.  
 
----
-
 ## Conclusion
 The interactive Power BI dashboards developed for **RetailEdge Solutions** have significantly enhanced the company’s ability to analyze and act on sales and profitability data. These dashboards deliver clear, actionable insights, enabling management to make informed decisions that drive business growth and operational efficiency.
-
----
 
 ## Future Enhancements
 - Implement predictive analytics for sales forecasting.  
 - Add customer segmentation based on purchase behavior.  
-- Integrate external data sources for market trend analysis.  
+- Integrate external data sources for market trend analysis.
